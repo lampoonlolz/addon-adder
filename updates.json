@@ -1,134 +1,134 @@
 {
-  "mods": [
-    {
-      "id": "tree-chopper",
-      "name": "Tree Chopper",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/TreeChopper.mcaddon",
-      "version": 4
-    },
-    {
-      "id": "better-fishing",
-      "name": "Better Fishing",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/BetterFishing.mcaddon",
-      "version": 3
-    },
-    {
-      "id": "ember-graves",
-      "name": "Ember Graves",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/EmberGraves.mcaddon",
-      "version": 3
-    },
-    {
-      "id": "tunnel-bore",
-      "name": "Tunnel Bore",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/TunnelBore.mcaddon",
-      "version": 2
-    },
-    {
-      "id": "the-listener",
-      "name": "The Listener",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/TheListener.mcaddon",
-      "version": 4,
-      "packVersion": "1.0.5"
-    },
-    {
-      "id": "hovercraft",
-      "name": "Hovercraft",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/Hovercraft.mcaddon",
-      "version": 2
-    },
-    {
-      "id": "vacuum-tubes",
-      "name": "Vacuum Tubes",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/VacuumTubes.mcaddon",
-      "version": 1
-    },
-    {
-      "id": "vacuum-item-tubes",
-      "name": "Vacuum Item Tubes",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/VacuumItemTubes.mcaddon",
-      "version": 1
-    },
-    {
-      "id": "cinder-imp",
-      "name": "Cinder Imp",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/CinderImp.mcaddon",
-      "version": 4,
-      "packVersion": "1.3.4"
-    },
-    {
-      "id": "bubble-imp",
-      "name": "Bubble Imp",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/BubbleImp.mcaddon",
-      "version": 3,
-      "packVersion": "1.1.4"
-    },
-    {
-      "id": "porter-imp",
-      "name": "Porter Imp",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/PorterImp.mcaddon",
-      "version": 3,
-      "packVersion": "1.1.3"
-    },
-    {
-      "id": "sprout-imp",
-      "name": "Sprout Imp",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/SproutImp.mcaddon",
-      "version": 3,
-      "packVersion": "1.1.4"
-    },
-    {
-      "id": "lumen-imp",
-      "name": "Lumen Imp",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/LumenImp.mcaddon",
-      "version": 3,
-      "packVersion": "1.1.3"
-    },
-    {
-      "id": "ledger-imp",
-      "name": "Ledger Imp",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/LedgerImp.mcaddon",
-      "version": 3,
-      "packVersion": "1.1.3"
-    },
-    {
-      "id": "shepherd-imp",
-      "name": "Shepherd Imp",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/ShepherdImp.mcaddon",
-      "version": 3,
-      "packVersion": "1.1.3"
-    },
-    {
-      "id": "fisher-imp",
-      "name": "Fisher Imp",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/FisherImp.mcaddon",
-      "version": 3,
-      "packVersion": "1.1.3"
-    },
-    {
-      "id": "feral-imp",
-      "name": "Feral Imp",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/FeralImp.mcaddon",
-      "version": 3,
-      "packVersion": "1.0.2"
-    },
-    {
-      "id": "rogue-village",
-      "name": "Rogue Village",
-      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/RogueVillage.mcaddon",
-      "version": 2,
-      "packVersion": "1.0.2"
-    }
-  ],
-  "pc": {
-    "cmdUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/AddonAdderPC.cmd",
-    "notes": "PC version 8 (unchanged app): the Minecraft folder finder finds Bedrock's current data folder by itself. The phone app is now 1.20 with all eighteen add-ons built in, eleven of them refreshed.",
-    "version": 8
+ "mods": [
+  {
+   "id": "tree-chopper",
+   "name": "Tree Chopper",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/TreeChopper.mcaddon",
+   "version": 4
   },
-  "phone": {
-    "apkUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.20/AddonAdder.apk",
-    "notes": "Addon Adder 1.20: an invisible-imp fix for the whole helper family. Today's playtest found summoned imps invisible on a real client — their render controllers used a bare texture array with no index and their models carried no visible bounds. All nine imp packs now use the pattern already proven on that client (indexed texture array plus geometry bounds), the Feral Imp's trait visuals moved off query.property onto mark_variant, every spawn egg got an explicit name entry, and Rogue Village 1.0.2 now guarantees the first village found in a world has a helper post (worlds saved by 1.0.x get that guarantee applied once). Refreshed built-in packs: Cinder Imp 1.3.4, Bubble Imp 1.1.4, Sprout Imp 1.1.4, Porter Imp 1.1.3, Lumen Imp 1.1.3, Ledger Imp 1.1.3, Shepherd Imp 1.1.3, Fisher Imp 1.1.3, Feral Imp 1.0.2, The Listener 1.0.5, Rogue Village 1.0.2. Eighteen add-ons built in in all. PC version stays 8.",
-    "versionCode": 21,
-    "versionName": "1.20"
+  {
+   "id": "better-fishing",
+   "name": "Better Fishing",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/BetterFishing.mcaddon",
+   "version": 3
+  },
+  {
+   "id": "ember-graves",
+   "name": "Ember Graves",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/EmberGraves.mcaddon",
+   "version": 3
+  },
+  {
+   "id": "tunnel-bore",
+   "name": "Tunnel Bore",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/TunnelBore.mcaddon",
+   "version": 2
+  },
+  {
+   "id": "the-listener",
+   "name": "The Listener",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/TheListener.mcaddon",
+   "version": 5,
+   "packVersion": "1.0.6"
+  },
+  {
+   "id": "hovercraft",
+   "name": "Hovercraft",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/Hovercraft.mcaddon",
+   "version": 2
+  },
+  {
+   "id": "vacuum-tubes",
+   "name": "Vacuum Tubes",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/VacuumTubes.mcaddon",
+   "version": 1
+  },
+  {
+   "id": "vacuum-item-tubes",
+   "name": "Vacuum Item Tubes",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/VacuumItemTubes.mcaddon",
+   "version": 1
+  },
+  {
+   "id": "cinder-imp",
+   "name": "Cinder Imp",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/CinderImp.mcaddon",
+   "version": 5,
+   "packVersion": "1.3.4"
+  },
+  {
+   "id": "bubble-imp",
+   "name": "Bubble Imp",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/BubbleImp.mcaddon",
+   "version": 4,
+   "packVersion": "1.1.5"
+  },
+  {
+   "id": "porter-imp",
+   "name": "Porter Imp",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/PorterImp.mcaddon",
+   "version": 4,
+   "packVersion": "1.1.4"
+  },
+  {
+   "id": "sprout-imp",
+   "name": "Sprout Imp",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/SproutImp.mcaddon",
+   "version": 4,
+   "packVersion": "1.1.5"
+  },
+  {
+   "id": "lumen-imp",
+   "name": "Lumen Imp",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/LumenImp.mcaddon",
+   "version": 4,
+   "packVersion": "1.1.4"
+  },
+  {
+   "id": "ledger-imp",
+   "name": "Ledger Imp",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/LedgerImp.mcaddon",
+   "version": 4,
+   "packVersion": "1.1.4"
+  },
+  {
+   "id": "shepherd-imp",
+   "name": "Shepherd Imp",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/ShepherdImp.mcaddon",
+   "version": 4,
+   "packVersion": "1.1.4"
+  },
+  {
+   "id": "fisher-imp",
+   "name": "Fisher Imp",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/FisherImp.mcaddon",
+   "version": 4,
+   "packVersion": "1.1.4"
+  },
+  {
+   "id": "feral-imp",
+   "name": "Feral Imp",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/FeralImp.mcaddon",
+   "version": 4,
+   "packVersion": "1.0.3"
+  },
+  {
+   "id": "rogue-village",
+   "name": "Rogue Village",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/RogueVillage.mcaddon",
+   "version": 2,
+   "packVersion": "1.0.2"
   }
+ ],
+ "pc": {
+  "cmdUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/AddonAdderPC.cmd",
+  "notes": "PC version 8 (unchanged app): the Minecraft folder finder finds Bedrock's current data folder by itself. The phone app is now 1.21 with all eighteen add-ons built in, ten of them refreshed.",
+  "version": 8
+ },
+ "phone": {
+  "apkUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.21/AddonAdder.apk",
+  "notes": "Addon Adder 1.21: render-fix rollout, part 2. This morning's playtest found the imps and The Listener invisible on a real client; the Cinder Imp was fixed first and PROVEN rendering in-game today. This release applies that exact proven recipe to the whole fleet: every mob pack drops the invalid client_entity \"sounds\" block (not a real client_entity field), and every imp's glass belly now uses a see-through glass material (entity_alphablend on the belly bone) with the belly panel in every skin texture set translucent, so it reads as glass instead of a painted white block. Spawn eggs keep their custom textures on purpose \u2014 if the fleet renders with them, the egg form is proven innocent. Refreshed built-in packs: Cinder Imp 1.3.4 (rebuilt from cleaned source), Bubble Imp 1.1.5, Sprout Imp 1.1.5, Porter Imp 1.1.4, Lumen Imp 1.1.4, Ledger Imp 1.1.4, Shepherd Imp 1.1.4, Fisher Imp 1.1.4, Feral Imp 1.0.3, The Listener 1.0.6. Rogue Village unchanged at 1.0.2. Eighteen add-ons built in in all. All packs pass the static audits and a combined Bedrock-server boot check. PC version stays 8. Same-day correction before this release went live: Austin's photo test showed the glass belly sat on the imps' BACKS (the models were authored facing the other way) - every imp's belly assembly and snout have been mirrored to the front, and the belly glass's bottom edge is faded too.",
+  "versionCode": 22,
+  "versionName": "1.21"
+ }
 }
