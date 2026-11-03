@@ -1,1 +1,133 @@
-{"mods": [{"id": "tree-chopper", "name": "Tree Chopper", "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/TreeChopper.mcaddon", "version": 4}, {"id": "better-fishing", "name": "Better Fishing", "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/BetterFishing.mcaddon", "version": 3}, {"id": "ember-graves", "name": "Ember Graves", "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/EmberGraves.mcaddon", "version": 3}, {"id": "tunnel-bore", "name": "Tunnel Bore", "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/TunnelBore.mcaddon", "version": 2}, {"id": "the-listener", "name": "The Listener", "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/TheListener.mcaddon", "version": 2}, {"id": "hovercraft", "name": "Hovercraft", "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/Hovercraft.mcaddon", "version": 2}, {"id": "vacuum-tubes", "name": "Vacuum Tubes", "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/VacuumTubes.mcaddon", "version": 1}, {"id": "vacuum-item-tubes", "name": "Vacuum Item Tubes", "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/VacuumItemTubes.mcaddon", "version": 1}, {"id": "cinder-imp", "name": "Cinder Imp", "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/CinderImp.mcaddon", "version": 1}], "pc": {"cmdUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/AddonAdderPC.cmd", "notes": "PC version 8 (unchanged app): the Minecraft folder finder was rewritten -- it finds Bedrock's current data folder by itself. The mod check covers all nine add-ons, including Vacuum Tubes, Vacuum Item Tubes, and the Cinder Imp. The phone app is now 1.9 with all nine built in.", "version": 8}, "phone": {"apkUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.11/AddonAdder.apk", "notes": "Addon Adder 1.9: three new built-in add-ons, with buttons right in the app -- Vacuum Tubes, Vacuum Item Tubes, and the Cinder Imp, the little furnace helper with the glass belly who banks your smelting XP and gets fatter holding it. All nine add-ons are built in now. The built-in packs are the newest builds too (the five fixed-up ones from your worlds). PC version stays 8.", "versionCode": 10, "versionName": "1.9"}}
+{
+  "mods": [
+    {
+      "id": "tree-chopper",
+      "name": "Tree Chopper",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/TreeChopper.mcaddon",
+      "version": 4
+    },
+    {
+      "id": "better-fishing",
+      "name": "Better Fishing",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/BetterFishing.mcaddon",
+      "version": 3
+    },
+    {
+      "id": "ember-graves",
+      "name": "Ember Graves",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/EmberGraves.mcaddon",
+      "version": 3
+    },
+    {
+      "id": "tunnel-bore",
+      "name": "Tunnel Bore",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/TunnelBore.mcaddon",
+      "version": 2
+    },
+    {
+      "id": "the-listener",
+      "name": "The Listener",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/TheListener.mcaddon",
+      "version": 2
+    },
+    {
+      "id": "hovercraft",
+      "name": "Hovercraft",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/Hovercraft.mcaddon",
+      "version": 2
+    },
+    {
+      "id": "vacuum-tubes",
+      "name": "Vacuum Tubes",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/VacuumTubes.mcaddon",
+      "version": 1
+    },
+    {
+      "id": "vacuum-item-tubes",
+      "name": "Vacuum Item Tubes",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/VacuumItemTubes.mcaddon",
+      "version": 1
+    },
+    {
+      "id": "cinder-imp",
+      "name": "Cinder Imp",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/CinderImp.mcaddon",
+      "version": 2,
+      "packVersion": "1.3.2"
+    },
+    {
+      "id": "bubble-imp",
+      "name": "Bubble Imp",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/BubbleImp.mcaddon",
+      "version": 1,
+      "packVersion": "1.1.2"
+    },
+    {
+      "id": "porter-imp",
+      "name": "Porter Imp",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/PorterImp.mcaddon",
+      "version": 1,
+      "packVersion": "1.1.1"
+    },
+    {
+      "id": "sprout-imp",
+      "name": "Sprout Imp",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/SproutImp.mcaddon",
+      "version": 1,
+      "packVersion": "1.1.2"
+    },
+    {
+      "id": "lumen-imp",
+      "name": "Lumen Imp",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/LumenImp.mcaddon",
+      "version": 1,
+      "packVersion": "1.1.1"
+    },
+    {
+      "id": "ledger-imp",
+      "name": "Ledger Imp",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/LedgerImp.mcaddon",
+      "version": 1,
+      "packVersion": "1.1.1"
+    },
+    {
+      "id": "shepherd-imp",
+      "name": "Shepherd Imp",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/ShepherdImp.mcaddon",
+      "version": 1,
+      "packVersion": "1.1.1"
+    },
+    {
+      "id": "fisher-imp",
+      "name": "Fisher Imp",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/FisherImp.mcaddon",
+      "version": 1,
+      "packVersion": "1.1.1"
+    },
+    {
+      "id": "feral-imp",
+      "name": "Feral Imp",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/FeralImp.mcaddon",
+      "version": 1,
+      "packVersion": "1.0.0"
+    },
+    {
+      "id": "rogue-village",
+      "name": "Rogue Village",
+      "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/RogueVillage.mcaddon",
+      "version": 1,
+      "packVersion": "1.0.1"
+    }
+  ],
+  "pc": {
+    "cmdUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/AddonAdderPC.cmd",
+    "notes": "PC version 8 (unchanged app): the Minecraft folder finder finds Bedrock's current data folder by itself. The phone app is now 1.18 with all eighteen add-ons built in.",
+    "version": 8
+  },
+  "phone": {
+    "apkUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.18/AddonAdder.apk",
+    "notes": "Addon Adder 1.18: the whole imp family is built in now -- nine new built-in add-ons with buttons right in the app: Bubble Imp (pack 1.1.2), Porter Imp (1.1.1), Sprout Imp (1.1.2), Lumen Imp (1.1.1), Ledger Imp (1.1.1), Shepherd Imp (1.1.1), Fisher Imp (1.1.1), Feral Imp (1.0.0) and Rogue Village (1.0.1). The built-in Cinder Imp is refreshed to pack 1.3.2 too. Eighteen add-ons are built in in all. PC version stays 8.",
+    "versionCode": 19,
+    "versionName": "1.18"
+  }
+}
