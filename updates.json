@@ -3,132 +3,132 @@
   {
    "id": "tree-chopper",
    "name": "Tree Chopper",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/TreeChopper.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/TreeChopper.mcaddon",
    "version": 4
   },
   {
    "id": "better-fishing",
    "name": "Better Fishing",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/BetterFishing.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/BetterFishing.mcaddon",
    "version": 3
   },
   {
    "id": "ember-graves",
    "name": "Ember Graves",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/EmberGraves.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/EmberGraves.mcaddon",
    "version": 3
   },
   {
    "id": "tunnel-bore",
    "name": "Tunnel Bore",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/TunnelBore.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/TunnelBore.mcaddon",
    "version": 2
   },
   {
    "id": "the-listener",
    "name": "The Listener",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/TheListener.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/TheListener.mcaddon",
    "version": 6,
    "packVersion": "1.0.7"
   },
   {
    "id": "hovercraft",
    "name": "Hovercraft",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/Hovercraft.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/Hovercraft.mcaddon",
    "version": 2
   },
   {
    "id": "vacuum-tubes",
    "name": "Vacuum Tubes",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/VacuumTubes.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/VacuumTubes.mcaddon",
    "version": 1
   },
   {
    "id": "vacuum-item-tubes",
    "name": "Vacuum Item Tubes",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/VacuumItemTubes.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/VacuumItemTubes.mcaddon",
    "version": 1
   },
   {
    "id": "cinder-imp",
    "name": "Cinder Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/CinderImp.mcaddon",
-   "version": 6,
-   "packVersion": "1.3.5"
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/CinderImp.mcaddon",
+   "version": 7,
+   "packVersion": "1.3.6"
   },
   {
    "id": "bubble-imp",
    "name": "Bubble Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/BubbleImp.mcaddon",
-   "version": 5,
-   "packVersion": "1.1.6"
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/BubbleImp.mcaddon",
+   "version": 6,
+   "packVersion": "1.1.7"
   },
   {
    "id": "porter-imp",
    "name": "Porter Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/PorterImp.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/PorterImp.mcaddon",
    "version": 5,
    "packVersion": "1.1.5"
   },
   {
    "id": "sprout-imp",
    "name": "Sprout Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/SproutImp.mcaddon",
-   "version": 5,
-   "packVersion": "1.1.6"
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/SproutImp.mcaddon",
+   "version": 6,
+   "packVersion": "1.1.7"
   },
   {
    "id": "lumen-imp",
    "name": "Lumen Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/LumenImp.mcaddon",
-   "version": 5,
-   "packVersion": "1.1.5"
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/LumenImp.mcaddon",
+   "version": 6,
+   "packVersion": "1.1.6"
   },
   {
    "id": "ledger-imp",
    "name": "Ledger Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/LedgerImp.mcaddon",
-   "version": 5,
-   "packVersion": "1.1.5"
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/LedgerImp.mcaddon",
+   "version": 6,
+   "packVersion": "1.1.6"
   },
   {
    "id": "shepherd-imp",
    "name": "Shepherd Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/ShepherdImp.mcaddon",
-   "version": 5,
-   "packVersion": "1.1.5"
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/ShepherdImp.mcaddon",
+   "version": 6,
+   "packVersion": "1.1.6"
   },
   {
    "id": "fisher-imp",
    "name": "Fisher Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/FisherImp.mcaddon",
-   "version": 5,
-   "packVersion": "1.1.5"
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/FisherImp.mcaddon",
+   "version": 6,
+   "packVersion": "1.1.6"
   },
   {
    "id": "feral-imp",
    "name": "Feral Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/FeralImp.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/FeralImp.mcaddon",
    "version": 5,
    "packVersion": "1.0.4"
   },
   {
    "id": "rogue-village",
    "name": "Rogue Village",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/RogueVillage.mcaddon",
+   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/RogueVillage.mcaddon",
    "version": 2,
    "packVersion": "1.0.2"
   }
  ],
  "pc": {
-  "cmdUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/AddonAdderPC.cmd",
-  "notes": "PC version 9: the built-in copy of The Listener is refreshed to pack 1.0.7 (the old built-in was an early build); the other five built-ins are unchanged, and everything else still arrives through this feed. The phone app is now 1.22 with all eighteen add-ons built in, ten of them refreshed.",
+  "cmdUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/AddonAdderPC.cmd",
+  "notes": "PC version stays 9: its six built-ins are unchanged, and the seven fixed imp packs below arrive through this feed, same as always. The phone app is now 1.23.",
   "version": 9
  },
  "phone": {
-  "apkUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.22/AddonAdder.apk",
-  "notes": "Addon Adder 1.22: the imp identity pass. The imps used to share one body and one copper colour, so they all looked the same; now each one has its own silhouette, its own main colour, and a job prop you can spot from across the room. Cinder: furnace-chimney hat, ember orange, glowing ember cracks down his torso. Bubble: glass bubble-dome helmet, aqua, potion bottle in hand. Sprout: big two-leaf sprout, leaf green, leafy shoulder pads. Porter: boxy backpack with a rolled top and a red flag on a pole, rusty tan. Lumen: lantern-pole hat with a hanging lantern, warm gold. Ledger: tall book hat, parchment cream with ink purple, quill tucked at his ear. Shepherd: puffy woolly cap, wool white, shepherd's crook. Fisher: wide-brim rain hat, deep blue, fishing rod. Feral is a shade darker. Creative eggs fixed too: every imp pack now registers its language file, the egg items carry their real names, and every dormant item shows its real name instead of a code-looking key, so the eggs can be found by searching creative \u2014 and each egg is painted in its imp's colours. The Listener's item names are fixed as well. Refreshed built-in packs: Cinder Imp 1.3.5, Bubble Imp 1.1.6, Sprout Imp 1.1.6, Porter Imp 1.1.5, Lumen Imp 1.1.5, Ledger Imp 1.1.5, Shepherd Imp 1.1.5, Fisher Imp 1.1.5, Feral Imp 1.0.4, The Listener 1.0.7. Rogue Village unchanged at 1.0.2. Eighteen add-ons built in in all. All ten refreshed packs passed per-pack and combined Bedrock-server boot checks with summon proofs and zero script errors. PC version rises to 9: its built-in copy of The Listener is refreshed to 1.0.7.",
-  "versionCode": 23,
-  "versionName": "1.22"
+  "apkUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.23/AddonAdder.apk",
+  "notes": "Addon Adder 1.23: the wake fix. Holding a dormant imp item on its job block used to wake a whole swarm of imps - one held use made eleven Sprout Imps - because the game re-fires the use action for as long as you hold it and every fire spawned another imp. Now the first imp to wake claims the block and every repeat fire stands down: one hold, one imp, proven in-game (the count after a single held use is exactly one). Fixed packs: Cinder Imp 1.3.6, Bubble Imp 1.1.7, Sprout Imp 1.1.7, Lumen Imp 1.1.6, Ledger Imp 1.1.6, Shepherd Imp 1.1.6, Fisher Imp 1.1.6. Cinder also stops stranding fractional XP in his belly (banked XP now rounds cleanly). Porter, Feral, The Listener and Rogue Village are unchanged. Eighteen add-ons built in in all.",
+  "versionCode": 24,
+  "versionName": "1.23"
  }
 }
