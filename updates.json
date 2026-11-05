@@ -1,134 +1,134 @@
 {
- "mods": [
-  {
-   "id": "tree-chopper",
-   "name": "Tree Chopper",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/TreeChopper.mcaddon",
-   "version": 4
-  },
-  {
-   "id": "better-fishing",
-   "name": "Better Fishing",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/BetterFishing.mcaddon",
-   "version": 3
-  },
-  {
-   "id": "ember-graves",
-   "name": "Ember Graves",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/EmberGraves.mcaddon",
-   "version": 3
-  },
-  {
-   "id": "tunnel-bore",
-   "name": "Tunnel Bore",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/TunnelBore.mcaddon",
-   "version": 2
-  },
-  {
-   "id": "the-listener",
-   "name": "The Listener",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/TheListener.mcaddon",
-   "version": 6,
-   "packVersion": "1.0.7"
-  },
-  {
-   "id": "hovercraft",
-   "name": "Hovercraft",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/Hovercraft.mcaddon",
-   "version": 2
-  },
-  {
-   "id": "vacuum-tubes",
-   "name": "Vacuum Tubes",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/VacuumTubes.mcaddon",
-   "version": 1
-  },
-  {
-   "id": "vacuum-item-tubes",
-   "name": "Vacuum Item Tubes",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/VacuumItemTubes.mcaddon",
-   "version": 1
-  },
-  {
-   "id": "cinder-imp",
-   "name": "Cinder Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/CinderImp.mcaddon",
-   "version": 8,
-   "packVersion": "1.3.7"
-  },
-  {
-   "id": "bubble-imp",
-   "name": "Bubble Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/BubbleImp.mcaddon",
-   "version": 6,
-   "packVersion": "1.1.7"
-  },
-  {
-   "id": "porter-imp",
-   "name": "Porter Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/PorterImp.mcaddon",
-   "version": 5,
-   "packVersion": "1.1.5"
-  },
-  {
-   "id": "sprout-imp",
-   "name": "Sprout Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/SproutImp.mcaddon",
-   "version": 6,
-   "packVersion": "1.1.7"
-  },
-  {
-   "id": "lumen-imp",
-   "name": "Lumen Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/LumenImp.mcaddon",
-   "version": 6,
-   "packVersion": "1.1.6"
-  },
-  {
-   "id": "ledger-imp",
-   "name": "Ledger Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/LedgerImp.mcaddon",
-   "version": 6,
-   "packVersion": "1.1.6"
-  },
-  {
-   "id": "shepherd-imp",
-   "name": "Shepherd Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/ShepherdImp.mcaddon",
-   "version": 6,
-   "packVersion": "1.1.6"
-  },
-  {
-   "id": "fisher-imp",
-   "name": "Fisher Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/FisherImp.mcaddon",
-   "version": 6,
-   "packVersion": "1.1.6"
-  },
-  {
-   "id": "feral-imp",
-   "name": "Feral Imp",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/FeralImp.mcaddon",
-   "version": 5,
-   "packVersion": "1.0.4"
-  },
-  {
-   "id": "rogue-village",
-   "name": "Rogue Village",
-   "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/RogueVillage.mcaddon",
-   "version": 2,
-   "packVersion": "1.0.2"
-  }
- ],
- "pc": {
-  "cmdUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/AddonAdderPC.cmd",
-  "notes": "PC version stays 9: its six built-ins are unchanged, and the refreshed Cinder Imp below arrives through this feed, same as always. The phone app is now 1.24.",
-  "version": 9
- },
- "phone": {
-  "apkUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.24/AddonAdder.apk",
-  "notes": "Addon Adder 1.24: Cinder Imp becomes an area cooker. Cinder Imp 1.3.7: wake him on a cooker and he now tends every cooker and chest in a 21-by-21 square around that spot instead of one single furnace - break the furnace he woke on and he keeps cooking off the others, and a fresh cooker placed inside his square joins in on its own. Crouch and right-click him for a menu: pick him back up (nothing he carries or has banked is lost), claim his XP, or set a new centre where he stands. His name tag says in plain words when he needs a cooker or a chest nearby. His banked XP no longer rounds up a crumb at a time - the old rounding quietly minted a little extra XP. His belly bank itself works exactly as before. All other packs unchanged. Eighteen add-ons built in in all.",
-  "versionCode": 25,
-  "versionName": "1.24"
- }
+    "mods": [
+        {
+            "id": "tree-chopper",
+            "name": "Tree Chopper",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/TreeChopper.mcaddon",
+            "version": 4
+        },
+        {
+            "id": "better-fishing",
+            "name": "Better Fishing",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/BetterFishing.mcaddon",
+            "version": 3
+        },
+        {
+            "id": "ember-graves",
+            "name": "Ember Graves",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/EmberGraves.mcaddon",
+            "version": 4
+        },
+        {
+            "id": "tunnel-bore",
+            "name": "Tunnel Bore",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/TunnelBore.mcaddon",
+            "version": 2
+        },
+        {
+            "id": "the-listener",
+            "name": "The Listener",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/TheListener.mcaddon",
+            "version": 6,
+            "packVersion": "1.0.7"
+        },
+        {
+            "id": "hovercraft",
+            "name": "Hovercraft",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/Hovercraft.mcaddon",
+            "version": 2
+        },
+        {
+            "id": "vacuum-tubes",
+            "name": "Vacuum Tubes",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/VacuumTubes.mcaddon",
+            "version": 1
+        },
+        {
+            "id": "vacuum-item-tubes",
+            "name": "Vacuum Item Tubes",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/VacuumItemTubes.mcaddon",
+            "version": 1
+        },
+        {
+            "id": "cinder-imp",
+            "name": "Cinder Imp",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/CinderImp.mcaddon",
+            "version": 9,
+            "packVersion": "1.3.8"
+        },
+        {
+            "id": "bubble-imp",
+            "name": "Bubble Imp",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/BubbleImp.mcaddon",
+            "version": 7,
+            "packVersion": "1.1.8"
+        },
+        {
+            "id": "porter-imp",
+            "name": "Porter Imp",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/PorterImp.mcaddon",
+            "version": 6,
+            "packVersion": "1.1.6"
+        },
+        {
+            "id": "sprout-imp",
+            "name": "Sprout Imp",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/SproutImp.mcaddon",
+            "version": 7,
+            "packVersion": "1.1.8"
+        },
+        {
+            "id": "lumen-imp",
+            "name": "Lumen Imp",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/LumenImp.mcaddon",
+            "version": 7,
+            "packVersion": "1.1.7"
+        },
+        {
+            "id": "ledger-imp",
+            "name": "Ledger Imp",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/LedgerImp.mcaddon",
+            "version": 7,
+            "packVersion": "1.1.7"
+        },
+        {
+            "id": "shepherd-imp",
+            "name": "Shepherd Imp",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/ShepherdImp.mcaddon",
+            "version": 7,
+            "packVersion": "1.1.7"
+        },
+        {
+            "id": "fisher-imp",
+            "name": "Fisher Imp",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/FisherImp.mcaddon",
+            "version": 7,
+            "packVersion": "1.1.7"
+        },
+        {
+            "id": "feral-imp",
+            "name": "Feral Imp",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/FeralImp.mcaddon",
+            "version": 5,
+            "packVersion": "1.0.4"
+        },
+        {
+            "id": "rogue-village",
+            "name": "Rogue Village",
+            "url": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/RogueVillage.mcaddon",
+            "version": 2,
+            "packVersion": "1.0.2"
+        }
+    ],
+    "pc": {
+        "cmdUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/AddonAdderPC.cmd",
+        "notes": "PC version 10: the tool itself works exactly as before, but every built-in inside it was refreshed to its current pack build -- Ember Graves 1.1.5 (wider death-XP cleanup sweep) above all, and the current Better Fishing, Tunnel Bore and Hovercraft builds, which the old tool still carried in their first versions. Tree Chopper and The Listener were already current. The phone app is now 1.25.",
+        "version": 10
+    },
+    "phone": {
+        "apkUrl": "https://github.com/lampoonlolz/addon-adder/releases/download/v1.25/AddonAdder.apk",
+        "notes": "Addon Adder 1.25: the whole imp family goes area. Every helper imp is an area worker now -- Sprout, Bubble, Ledger, Porter, Lumen, Shepherd and Fisher join Cinder: where you wake one becomes the centre of a 21-by-21 work square and he tends every station of his kind inside it, and breaking his first station no longer strands him. Crouch and right-click any imp for a menu: pick him back up (nothing he carries or has banked is lost), claim XP on the imps that bank it, or set a new centre where he stands -- that is also how you claim a wild imp now, no item needed. Wild imps spawn rarely now instead of all over the map, and every imp's nose sits back on his face. Cinder Imp 1.3.8 carries the same spawn-rarity and nose fixes, his area cooker unchanged. Ember Graves 1.1.5: the death-XP cleanup sweep now repeats out to 8 blocks, so orbs scattered by explosions, falls or slopes cannot survive to pay out twice. Eighteen add-ons built in in all.",
+        "versionCode": 26,
+        "versionName": "1.25"
+    }
 }
